@@ -2,7 +2,7 @@
 ## I. Xử lý khi server sập từ A-Z (software only)
 ### 1. Cài lại centos
 #### ************ Chỉ cài lại OS trong trường hợp bất khả kháng ***************
-**Thuật ngữ**: không hiểu thì chatgpt google dịch gì đó giùm cái
+**Thuật ngữ**: không hiểu thì chatgpt google dịch gì đó giùm cái :)))  
 **Chuẩn bị**: 1 ubs boot centos (image ở đây: https://drive.google.com/drive/folders/1B3CQqbP8FTMMioJ1iPqqWj6XhhCtxTWi?usp=drive_link) (có thể burn bằng balena etcher, rufus, create boot device trong GNOME, ...), 1 hoặc nhiều ổ đĩa sao lưu và 1 tâm hồn đẹp :)))  
 ***Nên sao lưu***: `/etc`, `/root`, cẩn trọng khi xử lý `/home`, `/` như bên dưới  
 Tham khảo vid dưới đây nhưng thao tác khác 1 chút như sau:  
